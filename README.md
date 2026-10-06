@@ -25,7 +25,7 @@ Open `tests/tests.html`. It shows PASS/FAIL for each test.
 3. Push and open a pull request. The CI check turns red and names the failing tests.
 4. Revert the change, push again. CI turns green.
 
-## Project layout
+## Project layout  test
 
 | File | Purpose |
 | --- | --- |
